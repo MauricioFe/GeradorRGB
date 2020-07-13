@@ -43,7 +43,7 @@ h1 {
   border-radius: 3px;
   outline: none;
   border: none;
-  background: white;
+  background: rgb(231, 231, 231);
 }
 
 .resultado {
